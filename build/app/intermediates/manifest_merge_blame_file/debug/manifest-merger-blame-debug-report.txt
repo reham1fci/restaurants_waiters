@@ -1,0 +1,140 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.maxrm.restaurants_waiters"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:8:5-66
+14-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:8:22-64
+15    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+15-->[:open_file] /Users/mac/Documents/projects/restaurants_waiters/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-83
+15-->[:open_file] /Users/mac/Documents/projects/restaurants_waiters/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-80
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->[:open_file] /Users/mac/Documents/projects/restaurants_waiters/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-80
+16-->[:open_file] /Users/mac/Documents/projects/restaurants_waiters/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-77
+17
+18    <application
+18-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:9:5-50:19
+19        android:name="io.flutter.app.FlutterApplication"
+19-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:10:9-57
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:12:9-43
+23        android:label="restaurants_waiters" >
+23-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:11:9-44
+24        <activity
+24-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:13:9-44:20
+25            android:name="com.maxrm.restaurants_waiters.MainActivity"
+25-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:14:13-41
+26            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+26-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:17:13-163
+27            android:hardwareAccelerated="true"
+27-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:18:13-47
+28            android:launchMode="singleTop"
+28-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:15:13-43
+29            android:theme="@style/LaunchTheme"
+29-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:16:13-47
+30            android:windowSoftInputMode="adjustResize" >
+30-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:19:13-55
+31
+32            <!--
+33                 Specifies an Android theme to apply to this Activity as soon as
+34                 the Android process has started. This theme is visible to the user
+35                 while the Flutter UI initializes. After that, this theme continues
+36                 to determine the Window background behind the Flutter UI.
+37            -->
+38            <meta-data
+38-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:24:13-26:40
+39                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
+39-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:25:17-82
+40                android:value="true" />
+40-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:26:17-37
+41            <meta-data
+41-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:27:13-30:17
+42                android:name="io.flutter.embedding.android.NormalTheme"
+42-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:28:15-70
+43                android:resource="@style/NormalTheme" />
+43-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:29:15-52
+44            <!--
+45                 Displays an Android View that continues showing the launch screen
+46                 Drawable until Flutter paints its first frame, then this splash
+47                 screen fades out. A splash screen is useful to avoid any visual
+48                 gap between the end of Android's launch screen and the painting of
+49                 Flutter's first frame.
+50            -->
+51            <meta-data
+51-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:36:13-39:17
+52                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+52-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:37:15-79
+53                android:resource="@drawable/launch_background" />
+53-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:38:15-61
+54
+55            <intent-filter>
+55-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:40:13-43:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:41:17-68
+56-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:41:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:42:17-76
+58-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:42:27-74
+59            </intent-filter>
+60        </activity>
+61        <!--
+62             Don't delete the meta-data below.
+63             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+64        -->
+65        <meta-data
+65-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:47:9-49:33
+66            android:name="flutterEmbedding"
+66-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:48:13-44
+67            android:value="2" />
+67-->/Users/mac/Documents/projects/restaurants_waiters/android/app/src/main/AndroidManifest.xml:49:13-30
+68
+69        <provider
+69-->[:printing] /Users/mac/Documents/projects/restaurants_waiters/build/printing/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
+70            android:name="net.nfet.flutter.printing.PrintFileProvider"
+70-->[:printing] /Users/mac/Documents/projects/restaurants_waiters/build/printing/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-71
+71            android:authorities="com.maxrm.restaurants_waiters.flutter.printing"
+71-->[:printing] /Users/mac/Documents/projects/restaurants_waiters/build/printing/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-68
+72            android:exported="false"
+72-->[:printing] /Users/mac/Documents/projects/restaurants_waiters/build/printing/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
+73            android:grantUriPermissions="true" >
+73-->[:printing] /Users/mac/Documents/projects/restaurants_waiters/build/printing/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
+74            <meta-data
+74-->[:printing] /Users/mac/Documents/projects/restaurants_waiters/build/printing/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:71
+75                android:name="android.support.FILE_PROVIDER_PATHS"
+75-->[:printing] /Users/mac/Documents/projects/restaurants_waiters/build/printing/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+76                android:resource="@xml/flutter_printing_file_paths" />
+76-->[:printing] /Users/mac/Documents/projects/restaurants_waiters/build/printing/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-68
+77        </provider>
+78        <provider
+78-->[:open_file] /Users/mac/Documents/projects/restaurants_waiters/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-21:20
+79            android:name="com.crazecoder.openfile.FileProvider"
+79-->[:open_file] /Users/mac/Documents/projects/restaurants_waiters/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-64
+80            android:authorities="com.maxrm.restaurants_waiters.fileProvider.com.crazecoder.openfile"
+80-->[:open_file] /Users/mac/Documents/projects/restaurants_waiters/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-88
+81            android:exported="false"
+81-->[:open_file] /Users/mac/Documents/projects/restaurants_waiters/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+82            android:grantUriPermissions="true" >
+82-->[:open_file] /Users/mac/Documents/projects/restaurants_waiters/build/open_file/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+83            <meta-data
+83-->[:printing] /Users/mac/Documents/projects/restaurants_waiters/build/printing/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:71
+84                android:name="android.support.FILE_PROVIDER_PATHS"
+84-->[:printing] /Users/mac/Documents/projects/restaurants_waiters/build/printing/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+85                android:resource="@xml/filepaths" />
+85-->[:printing] /Users/mac/Documents/projects/restaurants_waiters/build/printing/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-68
+86        </provider>
+87    </application>
+88
+89</manifest>

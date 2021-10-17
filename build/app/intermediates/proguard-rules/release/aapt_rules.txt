@@ -1,0 +1,10 @@
+# Referenced at /Users/mac/Documents/projects/restaurants_waiters/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:21
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/mac/Documents/projects/restaurants_waiters/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:80
+-keep class com.crazecoder.openfile.FileProvider { <init>(); }
+# Referenced at /Users/mac/Documents/projects/restaurants_waiters/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:26
+-keep class com.maxrm.restaurants_waiters.MainActivity { <init>(); }
+# Referenced at /Users/mac/Documents/projects/restaurants_waiters/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:21
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /Users/mac/Documents/projects/restaurants_waiters/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:71
+-keep class net.nfet.flutter.printing.PrintFileProvider { <init>(); }
