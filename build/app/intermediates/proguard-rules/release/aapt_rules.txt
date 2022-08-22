@@ -1,0 +1,10 @@
+# Referenced at E:\newWork\max\newResturantsApi\restaurants_waiters\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:21
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at E:\newWork\max\newResturantsApi\restaurants_waiters\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:81
+-keep class com.crazecoder.openfile.FileProvider { <init>(); }
+# Referenced at E:\newWork\max\newResturantsApi\restaurants_waiters\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:27
+-keep class com.maxrm.restaurants_waiters.MainActivity { <init>(); }
+# Referenced at E:\newWork\max\newResturantsApi\restaurants_waiters\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:21
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at E:\newWork\max\newResturantsApi\restaurants_waiters\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:72
+-keep class net.nfet.flutter.printing.PrintFileProvider { <init>(); }

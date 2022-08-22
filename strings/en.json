@@ -1,0 +1,67 @@
+{
+  "app_name" : "restaurants" ,
+  "restaurant_name" : "Restaurant Name" ,
+  "phone" : "phone" ,
+  "tax_num" : "Tax N0" ,
+  "login" :    "Login" ,
+  "user_name" : " User Name " ,
+  "password" : " Password ",
+  "export_invoice": "Export Invoices"  ,
+  "import_tools": "Import Tools",
+  "local": "Local",
+  "delivery": "Delivery",
+  "family": "Family" ,
+  "add_printer": "Add Printer",
+  "settings": "settings",
+  "the_Syncing": "The Syncing",
+  "orders": "Orders",
+  "logout": "Logout",
+  "fill_data" : "Fill all data",
+  "error" : "Error , try again ",
+  "not_found": "Not Found",
+  "groups" : "Products Groups",
+  "total" : "Total",
+  "currency" : "SAR",
+  "order_num": "Order Num ",
+  "table_num": "Table Num",
+  "customer": "customer",
+  "pay_way": "Pay Way",
+  "pay": "Pay",
+  "invoice": "Invoice Type",
+  "date": "Date",
+  "invoice_type": "Default Invoice Type",
+  "employee": "employee",
+  "item": "item",
+  "price": "Price",
+  "qty": "Qty",
+  "cash": "Cash",
+  "change": "Change",
+  "user": "user",
+  "amount" : "invoice amount : ",
+  "contain_tax" : "Contain Tax ",
+  "paid": "Paid",
+  "remainder": "Remainder",
+  "thanks": "Thanks",
+  "save": "Save",
+  "async_data":"Do you want to async Config ?",
+  "cashier_printer" : "Cashier Printer",
+  "supervisor_printer" : "Supervisor Printer",
+  "departments_printer" : "Departments Printer",
+  "printer": "Printer" ,
+  "alert_cashier_printer": "cashier printer not found  \n you want add one ?",
+  "cancel" : "Cancel",
+  "print" : "Print",
+  "the_invoice" : "the invoice",
+  "discount" : "Discount: "
+
+
+
+
+
+
+
+
+
+
+
+}

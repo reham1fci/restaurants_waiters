@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/charset_converter-1.0.3/android/charset_converter.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/charset_converter-1.0.3/android/charset_converter.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-0.4.2+10/android/device_info.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-0.4.2+10/android/device_info.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-7.1.8/android/fluttertoast.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-7.1.8/android/fluttertoast.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/open_file-3.0.3/android/open_file.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/open_file-3.0.3/android/open_file.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.28/android/path_provider.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.28/android/path_provider.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/printing-4.1.0/android/printing.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/printing-4.1.0/android/printing.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/searchable_dropdown-1.1.3/android/searchable_dropdown.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/searchable_dropdown-1.1.3/android/searchable_dropdown.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7+3/android/shared_preferences.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7+3/android/shared_preferences.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.2+4/android/sqflite.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.2+4/android/sqflite.iml" />
+    </modules>
+  </component>
+</project>
